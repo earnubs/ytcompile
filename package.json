@@ -34,5 +34,10 @@
   "preferGlobal": "true",
   "bin": {
       "ytcompile" : "lib/ytcompile.js"
+  },
+  "dependencies": {
+      "argparse": "~0.1",
+      "htmlparser": "~1.7.6",
+      "yui": "~3.9"
   }
 }
