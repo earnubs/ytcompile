@@ -1,7 +1,7 @@
 {
   "name": "ytcompile",
   "description": "Precompile YUI JS Templates",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "homepage": "https://github.com/earnubs/ytcompile",
   "author": {
     "name": "Stephen Stewart",
